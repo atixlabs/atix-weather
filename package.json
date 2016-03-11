@@ -1,0 +1,27 @@
+{
+  "name": "atix-weather",
+  "version": "1.0.0",
+  "description": "Weather Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atixlabs/atix-weather.git"
+  },
+  "author": "AtixLabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atixlabs/atix-weather/issues"
+  },
+  "homepage": "https://github.com/atixlabs/atix-weather#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "restify": "^4.0.4"
+  }
+}
