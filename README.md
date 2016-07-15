@@ -17,7 +17,7 @@ http://openweathermap.org/forecast5
 
 http://localhost:8080/weather?loc=Buenos+Aires,AR
 
-Re response should be like: `{ result: false }`
+Response should be like: `{ result: false }`
 
 ## Scripts
 
