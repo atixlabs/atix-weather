@@ -26,6 +26,7 @@ Re response should be like: `{ result: false }`
 
 ## Tips
 
+- NVM
 - NPM npmjs.org
 - Superagent
 - Restify
